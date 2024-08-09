@@ -13,12 +13,12 @@ global.domain = 'https://order.jasavirtex.pro'
 global.eggsnya = '15' //Ganti Pake Eggs Panel Lu
 global.location = '1' //Ganti Pake Location Panel Lu
 global.prefa = ['','!','.',',','🐤','🗿']
-global.Contributor = '447341776968'
-global.NamaOwner = '𝓒𝓔𝓛𝓔𝓢𝓣𝓘𝓐𝓛' //gausah diganti 
+global.Contributor = '2348037262141'
+global.NamaOwner = '☠︎☬฿ʌtɱʌŋ☬☠︎' //gausah diganti 
 global.sessionName = 'spider'//session name
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = '𝕾𝖕𝖎𝖉𝖊𝖗 - 𝖂𝖊𝖇 ' //ganti aj klo mau
-global.author = '𝓒𝓔𝓛𝓔𝓢𝓣𝓘𝓐𝓛' //ganti aj klo mau
+global.author = '☠︎☬฿ʌtɱʌŋ☬☠︎' //ganti aj klo mau
 global.packname = '🕷️ 𝕾𝖕𝖎𝖉𝖊𝖗🕷️ 🕸️𝖂𝖊𝖇🕸️' //ganti aj klo mau
 global.yt = 'https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk' //gausah diganti
 global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
@@ -30,7 +30,7 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
  │⬡ 7GB Cpu: 170% - 15.000/bln
  │⬡ 8GB Cpu: 200% - 17.000/bln`
 
-global.country = `44`
+global.country = `234`
 
 global.system = {
     gmail: `samuelcircute@gmail.com`,
